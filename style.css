@@ -1,0 +1,27 @@
+.nome{
+    font-size: 35px;
+}
+
+.objetivo{
+    font-size: 24px;
+}
+
+span.frase{
+    font-size: 22px;
+}
+
+.formacao{
+    font-size:24px;
+}
+
+span.experiencia {
+    font-size: 24px;
+}
+
+.estudos{
+    font-size: 17px;
+}
+
+body {
+    background-color: rgb(213, 213, 213);
+}
